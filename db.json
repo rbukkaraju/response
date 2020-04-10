@@ -13,6 +13,27 @@
         "application": "koch",
         "response": "koch-koch-koch-koch-koch-koch"
       }
+    },
+     {
+      "id": "movie",
+      "response": {
+        "application": "movie",
+        "response": "movie-movie-movie-movie-movie-movie"
+      }
+    },
+    {
+      "id": "concierge",
+      "response": {
+        "application": "concierge",
+        "response": "concierge-concierge-concierge-concierge"
+      }
+    },
+    {
+      "id": "dummy",
+      "response": {
+        "application": "dummy",
+        "response": "concierge-concierge-concierge-concierge"
+      }
     }
   ]
 }
